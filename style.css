@@ -1,0 +1,34 @@
+#main {
+    background-color: #eee;
+}
+
+header {
+    text-align: center;
+}
+
+.img-div {
+    width: 100%;
+    background-color: #fff;
+}
+
+#img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: .8rem;
+}
+
+.tribute-info--textbox {
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul > li {
+    padding-bottom: 1rem;
+}
