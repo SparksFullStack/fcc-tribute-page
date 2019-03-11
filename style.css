@@ -27,8 +27,16 @@ header {
 .tribute-info--textbox {
     width: 80%;
     margin: 0 auto;
+    padding-bottom: .8rem;
 }
 
 ul > li {
     padding-bottom: 1rem;
+    font-size: 18px;
+}
+
+blockquote {
+    font-style: italic;
+    text-align: center;
+    font-size: 18px;
 }
