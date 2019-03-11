@@ -39,6 +39,10 @@ header {
     padding: 1.2rem 0;
 }
 
+.tribute-info--textbox > h2 {
+    padding-bottom: .8rem;
+}
+
 ul > li {
     padding-bottom: 1rem;
     font-size: 18px;
@@ -48,4 +52,19 @@ blockquote {
     font-style: italic;
     text-align: center;
     font-size: 18px;
+}
+
+.tribute-close {
+    padding: 1.2rem 0;
+    text-align: center;
+    font-size: 1.6em;
+    font-weight: bold;
+    width: 60%;
+    margin: 0 auto;
+}
+
+@media (max-width: 800px) {
+    .tribute-close {
+        width: 90%;
+    }
 }
