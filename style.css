@@ -14,7 +14,8 @@ header {
 }
 
 .img-div {
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
     background-color: #fff;
 }
 
@@ -23,12 +24,13 @@ header {
     display: block;
     height: auto;
     margin: 0 auto;
+    padding-bottom: 1rem;
 }
 
 #img-caption {
     text-align: center;
     font-size: 18px;
-    padding-bottom: .8rem;
+    padding-bottom: 1rem;
 }
 
 .tribute-info--textbox {
