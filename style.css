@@ -1,9 +1,16 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #main {
     background-color: #eee;
 }
 
 header {
     text-align: center;
+    padding: .8rem 0;
 }
 
 .img-div {
@@ -27,7 +34,7 @@ header {
 .tribute-info--textbox {
     width: 80%;
     margin: 0 auto;
-    padding-bottom: .8rem;
+    padding: 1.2rem 0;
 }
 
 ul > li {
